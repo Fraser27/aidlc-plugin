@@ -1,0 +1,19 @@
+{
+  "name": "aidlc-plugin",
+  "description": "AI Development Life Cycle — fully AI-driven dev workflow for Claude Code",
+  "version": "0.1.0",
+  "author": {
+    "name": "Fraser27"
+  },
+  "homepage": "https://github.com/Fraser27/aidlc-plugin",
+  "repository": "https://github.com/Fraser27/aidlc-plugin",
+  "license": "MIT",
+  "keywords": [
+    "aidlc",
+    "development-lifecycle",
+    "code-review",
+    "tdd",
+    "ci-cd",
+    "automation"
+  ]
+}
