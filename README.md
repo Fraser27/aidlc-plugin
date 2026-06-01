@@ -12,7 +12,7 @@ claude plugins marketplace add Fraser27/aidlc-plugin
 claude plugins install aidlc-plugin
 ```
 
-After installing, restart your Claude Code session for skills to become available.
+After installing, reload plugins with `/plugins` or restart your Claude Code session for skills to become available.
 
 ## Quick Start
 
