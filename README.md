@@ -5,8 +5,14 @@ AI Development Life Cycle plugin for Claude Code. Provides a fully AI-driven dev
 ## Installation
 
 ```bash
-claude plugins add Fraser27/aidlc-plugin
+# Add the marketplace
+claude plugins marketplace add Fraser27/aidlc-plugin
+
+# Install the plugin
+claude plugins install aidlc-plugin
 ```
+
+After installing, restart your Claude Code session for skills to become available.
 
 ## Quick Start
 
